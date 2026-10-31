@@ -1,0 +1,12 @@
+Sample market research queries (internet required):
+
+1. Query: UK industrial maintenance software
+   Objective: Find public background and recent developments in the UK market.
+
+2. Query: UK garden equipment market
+   Objective: Identify products, industry developments and questions to validate.
+
+3. Query: Factory predictive maintenance
+   Objective: Draft a competitor/market overview using published search results.
+
+Always read full source pages before relying on claims from RSS headlines.

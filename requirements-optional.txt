@@ -1,0 +1,2 @@
+# Optional unofficial Google Trends client. Google may throttle or block its endpoints.
+pytrends>=4.9,<6
